@@ -9,6 +9,7 @@ djangorestframework = "*"
 black = "*"
 pillow = "*"
 psycopg2 = "*"
+drf-spectacular = "*"
 
 [dev-packages]
 
